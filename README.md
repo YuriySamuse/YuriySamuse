@@ -1,12 +1,12 @@
 <h1>This «thing» is under construction... 👨‍🎨</h1>
 
-### Hi there, I'm Alexander 👋
+### Hi there, I'm Yurii 👋
 
 - 🔭 Working on **a lot of different stuff**
 - 🌱 Learning **everything I can get my hands on**
 - 🤔 Looking for help with **finding more time in a single day**
-- 📫 How to reach me: **alexander.repeta@gmail.com**
-- ⚡ Fun fact: **I love what I do - code and help people learn coding**
+- 📫 How to reach me: **6177385@gmail.com**
+- ⚡ Fun fact: **I love what I do - code and learn coding**
 
 ### My stack
 
@@ -17,8 +17,6 @@
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
